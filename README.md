@@ -42,5 +42,8 @@ vehiculo y precio segun el anio del modelo.
 
 ## Despliegue
 
-La aplicacion esta desplegada en Render: *(agregar aqui la URL una vez desplegada,
-por ejemplo `https://vehicles-sales-dashboard.onrender.com/`)*.
+La aplicacion esta desplegada en Render:
+https://vehicles-sales-dashboard-ubzl.onrender.com
+
+Nota: al usar el plan gratuito de Render, la app puede tardar hasta ~50 segundos en
+responder si estuvo inactiva (se "duerme" tras un periodo sin uso).
